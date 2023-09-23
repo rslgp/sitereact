@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sitereact/static/css/main.a617e044.chunk.css",
-    "main.js": "/sitereact/static/js/main.a4892d8a.chunk.js",
-    "main.js.map": "/sitereact/static/js/main.a4892d8a.chunk.js.map",
+    "main.js": "/sitereact/static/js/main.495ddadb.chunk.js",
+    "main.js.map": "/sitereact/static/js/main.495ddadb.chunk.js.map",
     "runtime-main.js": "/sitereact/static/js/runtime-main.36339662.js",
     "runtime-main.js.map": "/sitereact/static/js/runtime-main.36339662.js.map",
     "static/js/2.3c57765c.chunk.js": "/sitereact/static/js/2.3c57765c.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.36339662.js",
     "static/js/2.3c57765c.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.a4892d8a.chunk.js"
+    "static/js/main.495ddadb.chunk.js"
   ]
 }
