@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/sitereact/static/css/main.073c9b0a.css",
-    "main.js": "/sitereact/static/js/main.54459e11.js",
+    "main.js": "/sitereact/static/js/main.cc9ad925.js",
     "static/js/787.d3befce1.chunk.js": "/sitereact/static/js/787.d3befce1.chunk.js",
+    "static/media/axios.cjs": "/sitereact/static/media/axios.e127f42b383af9f755dc.cjs",
     "index.html": "/sitereact/index.html",
     "main.073c9b0a.css.map": "/sitereact/static/css/main.073c9b0a.css.map",
-    "main.54459e11.js.map": "/sitereact/static/js/main.54459e11.js.map",
+    "main.cc9ad925.js.map": "/sitereact/static/js/main.cc9ad925.js.map",
     "787.d3befce1.chunk.js.map": "/sitereact/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.54459e11.js"
+    "static/js/main.cc9ad925.js"
   ]
 }
