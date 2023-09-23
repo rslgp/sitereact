@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/sitereact/static/css/main.073c9b0a.css",
-    "main.js": "/sitereact/static/js/main.cc9ad925.js",
-    "static/js/787.d3befce1.chunk.js": "/sitereact/static/js/787.d3befce1.chunk.js",
-    "static/media/axios.cjs": "/sitereact/static/media/axios.e127f42b383af9f755dc.cjs",
+    "main.css": "/sitereact/static/css/main.a617e044.chunk.css",
+    "main.js": "/sitereact/static/js/main.7cf2acce.chunk.js",
+    "main.js.map": "/sitereact/static/js/main.7cf2acce.chunk.js.map",
+    "runtime-main.js": "/sitereact/static/js/runtime-main.36339662.js",
+    "runtime-main.js.map": "/sitereact/static/js/runtime-main.36339662.js.map",
+    "static/js/2.9c4ed2ca.chunk.js": "/sitereact/static/js/2.9c4ed2ca.chunk.js",
+    "static/js/2.9c4ed2ca.chunk.js.map": "/sitereact/static/js/2.9c4ed2ca.chunk.js.map",
+    "static/js/3.6f27f254.chunk.js": "/sitereact/static/js/3.6f27f254.chunk.js",
+    "static/js/3.6f27f254.chunk.js.map": "/sitereact/static/js/3.6f27f254.chunk.js.map",
     "index.html": "/sitereact/index.html",
-    "main.073c9b0a.css.map": "/sitereact/static/css/main.073c9b0a.css.map",
-    "main.cc9ad925.js.map": "/sitereact/static/js/main.cc9ad925.js.map",
-    "787.d3befce1.chunk.js.map": "/sitereact/static/js/787.d3befce1.chunk.js.map"
+    "static/css/main.a617e044.chunk.css.map": "/sitereact/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.9c4ed2ca.chunk.js.LICENSE.txt": "/sitereact/static/js/2.9c4ed2ca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.cc9ad925.js"
+    "static/js/runtime-main.36339662.js",
+    "static/js/2.9c4ed2ca.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.7cf2acce.chunk.js"
   ]
 }
